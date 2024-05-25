@@ -1,1 +1,1 @@
-# Earthquake-Prediction
+Earthquake-Prediction
